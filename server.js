@@ -5,9 +5,7 @@
 *  (including 3rd party web sites) or distributed to other students.
 * 
 *  Name: Pratik Gadani ID: 115220220 Date: July-22-2023
-*  Online Cyclic Link: 
-*
-********************************************************************************/
+*********************************************************************************/
 const path = require('path');
 const collegeData = require('./modules/collegeData');
 const express = require("express");
